@@ -52,4 +52,4 @@ window.onload = function() {
 
     refreshBalance();
   });
-}
+};
